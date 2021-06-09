@@ -1,0 +1,2 @@
+Premain-Class: net.encryptedkitten.java_network_interception_tool.JavaAgentMain
+Can-Retranform-Classes: true
